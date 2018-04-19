@@ -21,7 +21,7 @@ write a function that returns a number's squared value
 
 def number_squared(b):
   """returns a number's squared value"""
-  return b**2 
+  return b**b 
   
 #testing
 test1 = number_squared(4)
