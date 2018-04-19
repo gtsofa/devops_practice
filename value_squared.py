@@ -11,6 +11,13 @@ write a function that returns a number's squared value
 #initialize number by b 
 #multiply number b by itself
 #display multiplication results
+"""
+// Initialize a variable with a 'n' value
+
+// Multiply variable by it self
+
+// Return the result of that multiplication
+"""
 
 def number_squared(b):
   """returns a number's squared value"""
